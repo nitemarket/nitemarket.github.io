@@ -33,6 +33,10 @@
   margin-right: 10px;
 }
 
+.glyphicon.right, .fa.right {
+  margin-left: 10px;
+}
+
 .main-content > div {
   margin-bottom: 30px;
 }
@@ -66,4 +70,8 @@ h3.session-title {
 
 .sub-session .session-subtitle {
   text-decoration: underline;
+}
+
+.gold-color {
+  color: #ffd700;
 }
