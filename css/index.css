@@ -29,6 +29,16 @@
   margin: auto;
 }
 
+#profile > div {
+  position: relative;
+}
+
+#profile .download-link {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .glyphicon.left, .fa.left {
   margin-right: 10px;
 }
