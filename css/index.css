@@ -85,3 +85,9 @@ h3.session-title {
 .gold-color {
   color: #ffd700;
 }
+
+@media (max-width: 991px) {
+  h3.session-title {
+    padding-left: 15px;
+  }
+}
