@@ -36,7 +36,7 @@
 #profile .download-link {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 15px;
 }
 
 .glyphicon.left, .fa.left {
