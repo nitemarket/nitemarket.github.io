@@ -6,6 +6,10 @@
   margin-top: 50px;
 }
 
+.small-spacer {
+  margin-top: 30px;
+}
+
 #nav-list {
   max-height: 85%;
   overflow-y: auto;
@@ -89,5 +93,12 @@ h3.session-title {
 @media (max-width: 991px) {
   h3.session-title {
     padding-left: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  #skills img, #working-experience img {
+    width: 50px;
+    margin-right: 8px;
   }
 }
