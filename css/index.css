@@ -83,6 +83,7 @@ h3.session-title {
 }
 
 .sub-session .session-subtitle {
+  font-size: 20px;
   text-decoration: underline;
 }
 
